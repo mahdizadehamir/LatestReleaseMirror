@@ -157,17 +157,5 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="mirzaaghazadeh--slipstreamgui"></div>
 
-### mirzaaghazadeh--SlipStreamGUI
-
-🔗 [source](https://github.com/mirzaaghazadeh/SlipStreamGUI) – [<code><small>v1.4.4</small></code>](https://github.com/mirzaaghazadeh/SlipStreamGUI/releases/tag/v1.4.4)
-
-| File | Size | Download |
-|------|------|----------|
-| `SlipStream-GUI-Linux-x64.deb` | 75.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahdizadehamir/LatestReleaseMirror/main/releases/mirzaaghazadeh/SlipStreamGUI/SlipStream-GUI-Linux-x64.deb) |
-| `SlipStream-GUI-Windows-x64-Portable.exe` | 87.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mahdizadehamir/LatestReleaseMirror/main/releases/mirzaaghazadeh/SlipStreamGUI/SlipStream-GUI-Windows-x64-Portable.exe) |
-| `SlipStream-GUI-Windows-x64.exe` | 87.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahdizadehamir/LatestReleaseMirror/main/releases/mirzaaghazadeh/SlipStreamGUI/SlipStream-GUI-Windows-x64.exe) |
-| `SlipStream-GUI-Windows-x86-Portable.exe` | 78.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mahdizadehamir/LatestReleaseMirror/main/releases/mirzaaghazadeh/SlipStreamGUI/SlipStream-GUI-Windows-x86-Portable.exe) |
-| `SlipStream-GUI-Windows-x86.exe` | 78.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahdizadehamir/LatestReleaseMirror/main/releases/mirzaaghazadeh/SlipStreamGUI/SlipStream-GUI-Windows-x86.exe) |
 <!-- RELEASES_END -->
